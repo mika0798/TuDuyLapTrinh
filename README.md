@@ -5,7 +5,7 @@
     <article> 
       <h3>KHÓA 1</h3>
       <ol>
-        <li>Tính giá trị trung bình</li>
-        <li>Chuyển đổi USD sang VND</li>
+        <li><a href="https://github.com/mika0798/TuDuyLapTrinh/blob/main/giaTriTrungBinh.java">Tính giá trị trung bình</a></li>
+        <li><a href="https://github.com/mika0798/TuDuyLapTrinh/blob/main/tyGiaTienTe.java">Chuyển đổi USD sang VND</a></li>
       </ol>
     </article>
