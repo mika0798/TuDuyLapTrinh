@@ -7,5 +7,6 @@
       <ol>
         <li><a href="https://github.com/mika0798/TuDuyLapTrinh/blob/main/giaTriTrungBinh.java">Tính giá trị trung bình</a></li>
         <li><a href="https://github.com/mika0798/TuDuyLapTrinh/blob/main/tyGiaTienTe.java">Chuyển đổi USD sang VND</a></li>
+        <li><a href="https://github.com/mika0798/TuDuyLapTrinh/blob/main/viTriDiemM.java">Vị trí điểm M so với đường tròn</a></li>
       </ol>
     </article>
